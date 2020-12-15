@@ -1,0 +1,9 @@
+<!--start.wxml-->
+<view class="intro">
+小龟生活的还好吗？
+</view>
+<view>
+<image src="../../images/小龟生活照.jpg"></image>
+</view>
+
+<button class="btn1" bindtap="navigate">查看环境数据</button>
